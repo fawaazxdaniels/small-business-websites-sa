@@ -10,7 +10,7 @@ export const siteConfig = {
   instagram: '',
   facebook: '',
   linkedin: '',
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000',
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || 'https://small-business-websites-ahlo8mspl-codegearselite.vercel.app',
   primaryColour: '#13231f',
   accentColour: '#d6f36b',
 };
